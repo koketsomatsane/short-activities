@@ -1,5 +1,5 @@
 #practicing using slicing
-name = "Relebogile"
+name = "Sithembiso"
 
 print("The name is", name)
 
